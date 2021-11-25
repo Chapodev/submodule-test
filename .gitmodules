@@ -1,0 +1,3 @@
+[submodule "submodule-test-include"]
+	path = submodule-test-include
+	url = https://github.com/Chapodev/submodule-test-include.git
